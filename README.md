@@ -389,3 +389,24 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ![Footer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting!;Happy+Coding!+🚀;Star+⭐+if+you+like+this+project!)
 
 </div>
+## 🌐 Browser Support
+
+| Browser | Supported |
+|----------|-----------|
+| Chrome | ✅ |
+| Firefox | ✅ |
+| Edge | ✅ |
+| Safari | ✅ |
+| Opera | ✅ |
+
+For the best experience, use the latest version of your browser.
+## 🤝 Code of Conduct
+
+Please be respectful and professional while contributing.
+
+- Be kind and welcoming
+- Respect different opinions
+- Help other contributors
+- Follow project guidelines
+
+Let's build an inclusive open-source community together.
